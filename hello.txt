@@ -2,6 +2,4 @@ Hello Dunia
 
 Mencoba menambahkan pembaruan deskripsi
 
-Mencoba melakukan Squash 1
-Mencoba melakukan Squash 2
-Mencoba melakukan Squash 3
+Meminta untuk melakukan Code Review
